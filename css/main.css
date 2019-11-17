@@ -14,3 +14,24 @@ body {
 .between-space{
 	margin-top: 2rem;
 }
+
+.nav {
+    display: inline-block;
+    float: none;
+}
+
+.li {
+    text-align: center;
+}
+
+.footer {
+    background-color: #263238;
+    height: 5%;
+}
+
+.footer-text {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 12px;
+}
