@@ -2,8 +2,8 @@
 	color: white;
 }
 
-body {
-	background: url("image/SpiteSommercialLogo.png") ;
+.body {
+	background: url("/image/backround.png") ;
 	background-size:cover;
 }
 
