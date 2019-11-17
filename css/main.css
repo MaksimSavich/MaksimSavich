@@ -2,36 +2,24 @@
 	color: white;
 }
 
-body {
-	background: url("/image/backround.png") ;
-	background-size:cover;
-}
+
 
 .center{
 	padding: 2rem;
 }
 
-.between-space{
-	margin-top: 2rem;
-}
-
-.nav {
-    display: inline-block;
-    float: none;
-}
-
-.li {
-    text-align: center;
-}
-
-.footer {
-    background-color: #263238;
-    height: 5%;
-}
-
-.footer-text {
-    color: white;
-    font-size: 20px;
-    text-align: center;
-    margin-top: 12px;
-}
+body, html {
+	height: 100%;
+  }
+  .bg {
+	/* The image used */
+	background-image: url("/image/backround.png");
+  
+	/* Full height */
+	height: 100%;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
