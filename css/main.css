@@ -1,6 +1,9 @@
 .white-text{
 	color: white;
 }
+body{
+	padding-top: 5rem;
+} 
 
 .center{
 	padding: 2rem;
