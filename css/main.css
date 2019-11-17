@@ -2,7 +2,7 @@
 	color: white;
 }
 
-.body {
+body {
 	background: url("/image/backround.png") ;
 	background-size:cover;
 }
