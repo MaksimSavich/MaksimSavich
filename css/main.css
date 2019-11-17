@@ -23,3 +23,17 @@ body, html {
 	background-repeat: no-repeat;
 	background-size: cover;
   }
+
+  .thumbnail {
+	position: cover;
+	
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+	color: black;
+	background-color: white; 
+}
