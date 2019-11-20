@@ -354,7 +354,8 @@ input.input100 {
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background-image: url(/images/backround.png);
+  background-image: url("/images/backround.png");
+  background-size: 100%;
 
 
 
